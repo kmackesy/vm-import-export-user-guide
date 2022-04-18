@@ -143,7 +143,7 @@ After the import image task is completed, the output includes the ID of the AMI\
 {
     "ImportImageTasks": [
         {
-            "ImportTaskId": "import-ami-01234567890abcdef",
+            "ImportTaskId": "import-ami-1234567890abcdef0",
             "ImageId": "ami-1234567890EXAMPLE",
             "SnapshotDetails": [
                 {
